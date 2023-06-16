@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Blackcrow';
+    src: url('Blackcrow-Thin.eot');
+    src: local('Blackcrow Thin'), local('Blackcrow-Thin'),
+        url('Blackcrow-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Blackcrow-Thin.woff2') format('woff2'),
+        url('Blackcrow-Thin.woff') format('woff'),
+        url('Blackcrow-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blackcrow';
+    src: url('Blackcrow-Regular.eot');
+    src: local('Blackcrow Regular'), local('Blackcrow-Regular'),
+        url('Blackcrow-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Blackcrow-Regular.woff2') format('woff2'),
+        url('Blackcrow-Regular.woff') format('woff'),
+        url('Blackcrow-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blackcrow';
+    src: url('Blackcrow-SemiBold.eot');
+    src: local('Blackcrow SemiBold'), local('Blackcrow-SemiBold'),
+        url('Blackcrow-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Blackcrow-SemiBold.woff2') format('woff2'),
+        url('Blackcrow-SemiBold.woff') format('woff'),
+        url('Blackcrow-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blackcrow';
+    src: url('Blackcrow-Medium.eot');
+    src: local('Blackcrow Medium'), local('Blackcrow-Medium'),
+        url('Blackcrow-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Blackcrow-Medium.woff2') format('woff2'),
+        url('Blackcrow-Medium.woff') format('woff'),
+        url('Blackcrow-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blackcrow';
+    src: url('Blackcrow-Light.eot');
+    src: local('Blackcrow Light'), local('Blackcrow-Light'),
+        url('Blackcrow-Light.eot?#iefix') format('embedded-opentype'),
+        url('Blackcrow-Light.woff2') format('woff2'),
+        url('Blackcrow-Light.woff') format('woff'),
+        url('Blackcrow-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blackcrow';
+    src: url('Blackcrow-Bold.eot');
+    src: local('Blackcrow Bold'), local('Blackcrow-Bold'),
+        url('Blackcrow-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Blackcrow-Bold.woff2') format('woff2'),
+        url('Blackcrow-Bold.woff') format('woff'),
+        url('Blackcrow-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blackcrow';
+    src: url('Blackcrow-ExtraBold.eot');
+    src: local('Blackcrow ExtraBold'), local('Blackcrow-ExtraBold'),
+        url('Blackcrow-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Blackcrow-ExtraBold.woff2') format('woff2'),
+        url('Blackcrow-ExtraBold.woff') format('woff'),
+        url('Blackcrow-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blackcrow';
+    src: url('Blackcrow-ExtraLight.eot');
+    src: local('Blackcrow ExtraLight'), local('Blackcrow-ExtraLight'),
+        url('Blackcrow-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Blackcrow-ExtraLight.woff2') format('woff2'),
+        url('Blackcrow-ExtraLight.woff') format('woff'),
+        url('Blackcrow-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
